@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="./art/hackerrank.png" alt="logo" width="600" height="200.5">
+<img src="./art/hackerrank.png" alt="logo" width="600" height="250">
 
 # Интерактивный тренажер по SQL
 
