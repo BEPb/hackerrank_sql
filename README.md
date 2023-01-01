@@ -23,9 +23,10 @@
 2. Приступить к решеиню задач:
 ## Содержание
   
-* 1. Пересмотр выбора запроса I [Revising the Select Query I](./tasks/1.md)
-* 2. Пересмотр выбора запроса II [Revising the Select Query II](./tasks/2.md)
-* 3. Выбрать все [Select All](./tasks/3.md)
+ * 1. Пересмотр выбора запроса I [Revising the Select Query I](./tasks/1.md)
+ * 2. Пересмотр выбора запроса II [Revising the Select Query II](./tasks/2.md)
+ * 3. Выбрать все [Select All](./tasks/3.md)
+ * 4. Выбрать по идентификатору [Select By ID](./tasks/4.md)
 
   
 ---
