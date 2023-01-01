@@ -27,6 +27,7 @@
  * 2. Пересмотр выбора запроса II [Revising the Select Query II](./tasks/2.md)
  * 3. Выбрать все [Select All](./tasks/3.md)
  * 4. Выбрать по идентификатору [Select By ID](./tasks/4.md)
+ * 5. Атрибуты японских городов [Japanese Cities' Attributes](./tasks/5.md)
 
   
 ---
