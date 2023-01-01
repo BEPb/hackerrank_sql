@@ -3,13 +3,14 @@
 
 <img src="./art/hackerrank.png" alt="logo" width="600" height="250">
 
-# Интерактивный тренажер по SQL
+# Решение задач hackerrank по SQL
 
 </div>
 
 ## Как это работает?
 
-Все очень просто: переходи по [ссылке](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) профильных задач и учись, а если уже все идеи при решении закончились, обращайся к моим подсказкам.
+Все очень просто: переходи по [ссылке](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) 
+профильных задач hackerrank и учись, а если уже все идеи при решении закончились, обращайся к моим подсказкам.
 
 ## Порядок подготовки и работы с ботом
 
