@@ -23,7 +23,8 @@
 2. Приступить к решеиню задач:
 ## Содержание
   
-* 1. Пересмотр выбора запроса II [Revising the Select Query II](./tasks/1.md)
+* 1. Пересмотр выбора запроса I [Revising the Select Query I](./tasks/1.md)
+* 2. Пересмотр выбора запроса II [Revising the Select Query II](./tasks/2.md)
 
   
 ---
