@@ -23,13 +23,16 @@
 2. Приступить к решеиню задач:
 ## Содержание
   
- * 1. Пересмотр выбора запроса I [Revising the Select Query I](./tasks/1.md)
- * 2. Пересмотр выбора запроса II [Revising the Select Query II](./tasks/2.md)
- * 3. Выбрать все [Select All](./tasks/3.md)
- * 4. Выбрать по идентификатору [Select By ID](./tasks/4.md)
- * 5. Атрибуты японских городов [Japanese Cities' Attributes](./tasks/5.md)
- * 6. Названия японских городов [Japanese Cities' Names](./tasks/6.md)
- * 7. Станция наблюдения за погодой 1 [Weather Observation Station 1](./tasks/6.md)
+1. Пересмотр выбора запроса I [Revising the Select Query I](./tasks/1.md)
+2. Пересмотр выбора запроса II [Revising the Select Query II](./tasks/2.md)
+3. Выбрать все [Select All](./tasks/3.md)
+4. Выбрать по идентификатору [Select By ID](./tasks/4.md)
+5. Атрибуты японских городов [Japanese Cities' Attributes](./tasks/5.md)
+6. Названия японских городов [Japanese Cities' Names](./tasks/6.md)
+7. Станция наблюдения за погодой 1 [Weather Observation Station 1](./tasks/7.md)
+8. Станция наблюдения за погодой 3 [Weather Observation Station 3](./tasks/8.md)
+9. 
+
 
   
 ---
