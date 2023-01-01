@@ -35,6 +35,7 @@
 9. Станция наблюдения за погодой 4 [Weather Observation Station 4](./tasks/9.md)
 10. Станция наблюдения за погодой 5 [Weather Observation Station 5](./tasks/10.md)
 11. Станция наблюдения за погодой 6 [Weather Observation Station 6](./tasks/11.md)
+12. Станция наблюдения за погодой 7 [Weather Observation Station 7](./tasks/12.md)
 
 В процессе, будет дополнено)
 
