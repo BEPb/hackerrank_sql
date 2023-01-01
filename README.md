@@ -29,6 +29,7 @@
  * 4. Выбрать по идентификатору [Select By ID](./tasks/4.md)
  * 5. Атрибуты японских городов [Japanese Cities' Attributes](./tasks/5.md)
  * 6. Названия японских городов [Japanese Cities' Names](./tasks/6.md)
+ * 7. Станция наблюдения за погодой 1 [Weather Observation Station 1](./tasks/6.md)
 
   
 ---
