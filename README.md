@@ -44,6 +44,7 @@
 18. Выше 75 баллов - [Higher Than 75 Marks](./tasks/18.md)
 19. Имена сотрудников - [Employee Names](./tasks/19.md)
 20. Заработная плата сотрудников - [Employee Salaries](./tasks/20.md)
+21. Тип треугольника - [Type of Triangle](./tasks/21.md)
 
 
 ## В процессе...  , будет дополнено)
