@@ -1,0 +1,5 @@
+SELECT
+    DISTINCT CITY
+FROM STATION
+WHERE
+    LEFT(CITY, 1) not IN ('A', 'I', 'O', 'U', 'E')
