@@ -41,6 +41,7 @@
 15. Станция наблюдения за погодой 10 - [Weather Observation Station 10](./tasks/15.md)
 16. Станция наблюдения за погодой 11 - [Weather Observation Station 11](./tasks/16.md)
 17. Станция наблюдения за погодой 12 - [Weather Observation Station 12](./tasks/17.md)
+18. Выше 75 баллов - [Higher Than 75 Marks](./tasks/18.md)
 
 
 ## В процессе...  , будет дополнено)
