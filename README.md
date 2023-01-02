@@ -43,7 +43,7 @@
 17. Станция наблюдения за погодой 12 - [Weather Observation Station 12](./tasks/17.md)
 18. Выше 75 баллов - [Higher Than 75 Marks](./tasks/18.md)
 19. Имена сотрудников - [Employee Names](./tasks/19.md)
-20. Заработная плата сотрудников - [Employee Salaries](./tasks/19.md)
+20. Заработная плата сотрудников - [Employee Salaries](./tasks/20.md)
 
 
 ## В процессе...  , будет дополнено)
