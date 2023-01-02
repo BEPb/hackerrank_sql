@@ -1,0 +1,5 @@
+SELECT
+    DISTINCT CITY
+FROM STATION
+WHERE
+    SUBSTRING(CITY, -1) not IN ('A', 'I', 'O', 'U', 'E')
