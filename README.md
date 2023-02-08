@@ -47,6 +47,7 @@
 21. Тип треугольника - [Type of Triangle](./tasks/21.md)
 22. ПОДУШКИ - [The PADS](./tasks/22.md)
 23. Профессии - [Occupations](./tasks/23.md)
+24. Узлы бинарного дерева - [Binary Tree Nodes](./tasks/24.md)
 
 
 ## В процессе...  , будет дополнено)
