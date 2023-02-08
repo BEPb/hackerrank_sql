@@ -46,6 +46,7 @@
 20. Заработная плата сотрудников - [Employee Salaries](./tasks/20.md)
 21. Тип треугольника - [Type of Triangle](./tasks/21.md)
 22. ПОДУШКИ - [The PADS](./tasks/22.md)
+23. Профессии - [Occupations](./tasks/23.md)
 
 
 ## В процессе...  , будет дополнено)
