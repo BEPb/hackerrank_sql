@@ -48,6 +48,7 @@
 22. ПОДУШКИ - [The PADS](./tasks/22.md)
 23. Профессии - [Occupations](./tasks/23.md)
 24. Узлы бинарного дерева - [Binary Tree Nodes](./tasks/24.md)
+25. Новые компании - [New Companies](./tasks/24.md)
 
 
 ## В процессе...  , будет дополнено)
