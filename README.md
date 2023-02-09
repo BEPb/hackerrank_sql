@@ -50,7 +50,7 @@
 24. Узлы бинарного дерева - [Binary Tree Nodes](./tasks/24.md)
 25. Новые компании - [New Companies](./tasks/25.md)
 26. Средняя численность населения - [Average Population](./tasks/26.md)
-27. Средняя численность населения - [Average Population](./tasks/26.md)
+27. Население Японии - [Japan Population](./tasks/27.md)
 
 
 ## В процессе...  , будет дополнено)
