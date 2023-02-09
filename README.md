@@ -51,6 +51,7 @@
 25. Новые компании - [New Companies](./tasks/25.md)
 26. Средняя численность населения - [Average Population](./tasks/26.md)
 27. Население Японии - [Japan Population](./tasks/27.md)
+28. Разница в плотности населения - [Population Density Difference](./tasks/28.md)
 
 
 ## В процессе...  , будет дополнено)
