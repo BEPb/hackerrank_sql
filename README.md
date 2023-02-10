@@ -55,6 +55,7 @@
 29. Ошибка - [The Blunder](./tasks/29.md)
 30. Лучшие заработки - [Top Earners](./tasks/30.md)
 31. Проверка агрегатов — функция подсчета - [Revising Aggregations - The Count Function](./tasks/31.md)
+32. Проверка агрегатов — функция суммы - [Revising Aggregations - The Sum Function](./tasks/32.md)
 
 
 ## В процессе...  , будет дополнено)
