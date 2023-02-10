@@ -69,6 +69,7 @@
 43. Таблица лидеров конкурса - [Contest Leaderboard](./tasks/43.md)
 44. Интервью - [Interviews](./tasks/44.md)
 45. Базовое соединение - [Basic Join](./tasks/45.md)
+46. Перепись населения - [Population Census](./tasks/46.md)
 
 
 ## В процессе...  , будет дополнено)
