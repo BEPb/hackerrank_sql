@@ -78,6 +78,7 @@
 52. Проблемы - [Challenges](./tasks/52.md)
 53. Нарисуй треугольник 1 - [Draw The Triangle 1](./tasks/53.md)
 54. Нарисуй треугольник 2 - [Draw The Triangle 2](./tasks/54.md)
+55. Печать простых чисел - [Print Prime Numbers](./tasks/55.md)
 
 
 ## В процессе...  , будет дополнено)
