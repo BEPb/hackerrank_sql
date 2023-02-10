@@ -57,6 +57,7 @@
 31. Проверка агрегатов — функция подсчета - [Revising Aggregations - The Count Function](./tasks/31.md)
 32. Проверка агрегатов — функция суммы - [Revising Aggregations - The Sum Function](./tasks/32.md)
 33. Проверка агрегатов — функция среднего значения - [Revising Aggregations - Averages](./tasks/33.md)
+34. Станция наблюдения за погодой 2 - [Weather Observation Station 2](./tasks/34.md)
 
 
 ## В процессе...  , будет дополнено)
