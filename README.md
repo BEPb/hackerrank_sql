@@ -71,6 +71,7 @@
 45. Базовое соединение - [Basic Join](./tasks/45.md)
 46. Перепись населения - [Population Census](./tasks/46.md)
 47. Африканские города - [African Cities](./tasks/47.md)
+48. Средняя численность населения каждого континента - [Average Population of Each Continent](./tasks/48.md)
 
 
 ## В процессе...  , будет дополнено)
