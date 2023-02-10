@@ -82,6 +82,7 @@
 56. 15 дней изучения SQL - [15 Days of Learning SQL](./tasks/56.md)
 57. Планирование проекта SQL - [SQL Project Planning](./tasks/57.md)
 58. Места размещения - [Placements](./tasks/58.md)
+59. Симметричные пары - [Symmetric Pairs](./tasks/59.md)
 
 
 ## В процессе...  , будет дополнено)
