@@ -66,6 +66,7 @@
 40. Станция наблюдения за погодой 18 - [Weather Observation Station 18](./tasks/40.md)
 41. Станция наблюдения за погодой 19 - [Weather Observation Station 19](./tasks/41.md)
 42. Станция наблюдения за погодой 20 - [Weather Observation Station 20](./tasks/42.md)
+43. Таблица лидеров конкурса - [Contest Leaderboard](./tasks/43.md)
 
 
 ## В процессе...  , будет дополнено)
