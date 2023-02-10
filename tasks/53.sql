@@ -1,0 +1,11 @@
+WITH RECURSIVE CTE AS (
+    SELECT
+        20 AS U
+    UNION ALL
+    SELECT
+        U - 1 AS U
+    FROM CTE WHERE U > 1
+)
+SELECT
+    REPEAT('* ', U)
+FROM CTE;

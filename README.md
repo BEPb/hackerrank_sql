@@ -76,6 +76,7 @@
 50. Лучшие конкуренты - [Top Competitors](./tasks/50.md)
 51. Инвентарь Олливандера - [Ollivander's Inventory](./tasks/51.md)
 52. Проблемы - [Challenges](./tasks/52.md)
+53. Нарисуй треугольник 1 - [Draw The Triangle 1](./tasks/53.md)
 
 
 ## В процессе...  , будет дополнено)
