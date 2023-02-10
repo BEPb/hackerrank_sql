@@ -79,6 +79,7 @@
 53. Нарисуй треугольник 1 - [Draw The Triangle 1](./tasks/53.md)
 54. Нарисуй треугольник 2 - [Draw The Triangle 2](./tasks/54.md)
 55. Печать простых чисел - [Print Prime Numbers](./tasks/55.md)
+56. 15 дней изучения SQL - [15 Days of Learning SQL](./tasks/56.md)
 
 
 ## В процессе...  , будет дополнено)
