@@ -54,6 +54,7 @@
 28. Разница в плотности населения - [Population Density Difference](./tasks/28.md)
 29. Ошибка - [The Blunder](./tasks/29.md)
 30. Лучшие заработки - [Top Earners](./tasks/30.md)
+31. Проверка агрегатов — функция подсчета - [Revising Aggregations - The Count Function](./tasks/31.md)
 
 
 ## В процессе...  , будет дополнено)
