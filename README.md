@@ -74,6 +74,7 @@
 48. Средняя численность населения каждого континента - [Average Population of Each Continent](./tasks/48.md)
 49. Отчет - [The Report](./tasks/49.md)
 50. Лучшие конкуренты - [Top Competitors](./tasks/50.md)
+51. Инвентарь Олливандера - [Ollivander's Inventory](./tasks/51.md)
 
 
 ## В процессе...  , будет дополнено)
