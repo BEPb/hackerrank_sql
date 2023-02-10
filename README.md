@@ -75,6 +75,7 @@
 49. Отчет - [The Report](./tasks/49.md)
 50. Лучшие конкуренты - [Top Competitors](./tasks/50.md)
 51. Инвентарь Олливандера - [Ollivander's Inventory](./tasks/51.md)
+52. Проблемы - [Challenges](./tasks/52.md)
 
 
 ## В процессе...  , будет дополнено)
