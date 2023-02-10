@@ -56,6 +56,7 @@
 30. Лучшие заработки - [Top Earners](./tasks/30.md)
 31. Проверка агрегатов — функция подсчета - [Revising Aggregations - The Count Function](./tasks/31.md)
 32. Проверка агрегатов — функция суммы - [Revising Aggregations - The Sum Function](./tasks/32.md)
+33. Проверка агрегатов — функция среднего значения - [Revising Aggregations - Averages](./tasks/33.md)
 
 
 ## В процессе...  , будет дополнено)
