@@ -70,6 +70,7 @@
 44. Интервью - [Interviews](./tasks/44.md)
 45. Базовое соединение - [Basic Join](./tasks/45.md)
 46. Перепись населения - [Population Census](./tasks/46.md)
+47. Африканские города - [African Cities](./tasks/47.md)
 
 
 ## В процессе...  , будет дополнено)
